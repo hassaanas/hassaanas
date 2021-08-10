@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hassaanas
+- 👋 Hi, I’m Hassaan Siddiqui (@hassaanas)
 - 👀 I’m interested in cloud-native solutions for reliable IoT systems
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on reliable IoT / IoV systems
