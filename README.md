@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassaan Siddiqui (@hassaanas)
-- 👀 I’m interested in cloud-native solutions for reliable IoT systems
-- 🌱 I’m currently learning kubernetes
+- 👀 I’m researching on cloud-native and microservices based applications for highly-available and reliable IoT systems
+- 🌱 I’m currently designing and implementing a microservices based highly-available application for tele-operated driving use case for autonomous vehicles 
 - 💞️ I’m looking to collaborate on reliable IoT / IoV systems
 - 📫 I can be reached at hassaan.a.s@gmail.com
 
