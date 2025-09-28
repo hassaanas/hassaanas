@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Hassaan Siddiqui (@hassaanas)
-- 👀 I’m researching on cloud-native and microservices based applications for highly-available and reliable IoT systems
-- 🌱 I’m currently designing and implementing a microservices based highly-available application for tele-operated driving use case for autonomous vehicles 
-- 💞️ I’m looking to collaborate on reliable IoT / IoV systems
+- 👀 I’m working on Applied AI/ML for High-Availability (HA) challenges in cloud-native/microservices-based systems
+- 🌱 I’m currently designing ML models for k8s / microservices based systems
+- 🌱 I have implemented a microservices based highly-available application for tele-operated driving use case for autonomous vehicles 
+- 💞️ I’m looking to collaborate on HA / k8s / Cloud / IoT / IoV projects
 - 📫 I can be reached at hassaan.a.s@gmail.com
 
 <!---
